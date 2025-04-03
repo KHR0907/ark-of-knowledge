@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "530ed8b798e98e5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c24bf46251bf46e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af3f58eb86f800f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일기장/2024-09-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-09-19"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5182ed929da58354",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c30402074c2c35a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d896c86fda0d1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a1a19a3f425b629f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a952669f006e1db8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6dc3f39caf62add7",
+    "type": "split",
+    "children": [
+      {
+        "id": "234fd0339c70e5c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90cf533db02f089",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "일기장/2024-09-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-09-19"
+            }
+          },
+          {
+            "id": "e740e6a7d6156335",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "일기장/2024-09-19.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-09-19"
+            }
+          },
+          {
+            "id": "8366babdc317ac96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b10722c1f08a03d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "일기장/2024-09-19.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-09-19"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1af3f58eb86f800f",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "자기개발/서평/재테크 관련 독서 목록.md",
+    "자기개발/서평/개장 전, 아직 켜지지 않은 모니터 앞에서.md",
+    "자기개발/서평",
+    "자기개발",
+    "일기장/2024-09-19.md",
+    "일기장",
+    "사업",
+    "개발공부/Java/Spring/JPA/JPA에서 top, limit 사용하기.md",
+    "개발공부/Java/Spring/JPA",
+    "개발공부/Python/파이썬 str 변환 메소드.md",
+    "개발공부/Java/Spring",
+    "개발공부/Python",
+    "개발공부/Java",
+    "개발공부"
+  ]
+}

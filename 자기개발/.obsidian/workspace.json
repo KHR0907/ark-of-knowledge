@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "a125dd345cc3be6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a040be6b166516b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ce8eb677cf293b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8a20364c84d33c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "016f1c7353474a44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0a846197b945359",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "f655f1749405fe05",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a761b2121015cf05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e28438a4ee1449ed",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0bf4aa9cd813b019",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab3f1c4840052af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bded7c81c99f2105",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b35c21ae1b158a98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a534bbf0a0780e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cca256d729227815",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "3ce8eb677cf293b9",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "create a link.md",
+    "일기장",
+    "서평/개장 전, 아직 켜지지 않은 모니터 앞에서.md",
+    "서평/재테크 관련 독서 목록.md",
+    "일기장/2024-09-19.md",
+    "무제 파일 1.md",
+    "서평/무제 파일 1.md",
+    "서평",
+    "무제 파일.canvas"
+  ]
+}
