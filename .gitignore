@@ -10,6 +10,9 @@
 # to exclude workspace cache specific to mobile devices
 .obsidian/workspace-mobile.json
 
+# community
+.obsidian/community
+
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
